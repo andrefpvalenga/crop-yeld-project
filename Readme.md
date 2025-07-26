@@ -15,7 +15,7 @@
 
 ## ⚙️ How to Run
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git  
+git clone https://github.com/andrefpvalenga/crop-yeld-project
 cd crop-yield-prediction  
 pip install -r requirements.txt  
 python main.py  
