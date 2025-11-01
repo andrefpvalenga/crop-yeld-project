@@ -5,7 +5,7 @@
 ## 🚀 Objectives  
 - [x] Importing libraries and data  
 - [x] Checking data and EDA
-- [ ] Data preparationa and training (ongoing)
+- [ ] Data preparation and training (ongoing)
 - [ ] Test Models
 - [ ] 
 
