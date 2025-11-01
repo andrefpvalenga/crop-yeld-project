@@ -1,6 +1,6 @@
 # Crop Yield Prediction  
 
-📌 **This project will predict the Crop Yield in the following years using ML thecniches or lerning propouses**
+📌 **This project will predict the Crop Yield using ML thecniches**
 
 ## 🚀 Objectives  
 - [x] Importing libraries and data  
