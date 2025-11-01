@@ -3,9 +3,9 @@
 📌 **This project will predict the Crop Yield in the following years using ML thecniches or lerning propouses**
 
 ## 🚀 Objectives  
-- [x] Load Data  
-- [ ] Check and cleaning data (development)  
-- [ ] Training models
+- [x] Importing libraries and data  
+- [x] Checking data and EDA
+- [ ] Data preparationa and training (ongoing)
 - [ ] Test Models
 - [ ] 
 
